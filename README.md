@@ -1,0 +1,2 @@
+# splatfest-renamer
+splatfest-renamer
