@@ -2,6 +2,7 @@
 Splatfest renamer 1.3 - by sourguppyworm
 
 Renames images for Splatoon 3 Splatfest categories for usage on Inkipedia, and can output file templates and gallery captions.
+
 As a disclaimer: This is my first program, so it is built sort of badly and I know that. It works just fine most of the time though
 
 ## Requirements:
