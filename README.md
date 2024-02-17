@@ -7,10 +7,12 @@ As a disclaimer: This is my first program, so it is built sort of badly and I kn
 
 ## Requirements:
 <a href="https://www.python.org/downloads/">Python 3</a> - Added to PATH during installation
+
 I have only tested this program on Windows. I cannot guarantee that it will work on another operating system.
 
 ## Usage:
 Open the script and follow the instructions given on the terminal.
+
 Enter 0 to skip a particular image.
 
 ## Currently supported categories:
